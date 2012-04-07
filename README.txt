@@ -5,7 +5,7 @@
 1. Project designation:
 
 This Project is designed to give the opportunity of scrobbling track playbacks 
-from MTP-compatibe device to lastfm account.
+from MTP-compatible device to lastfm account.
 
 =====================================================
 
